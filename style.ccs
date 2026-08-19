@@ -14,12 +14,12 @@
 }
 
 .tema-escuro {
-    --cor-primaria: #A6CEFE;
+    --cor-primaria: #e3420c;
     --cor-secundaria: #98caff;
     --cor-fundo: #0f172a;
     --cor-texto: #ffffff;
-    --cor-contraste: #1e293b;
-    --cor-botao: #151428;
+    --cor-contraste: #727cbe;
+    --cor-botao: #7d77ea;
 }
 
 .tema-escuro p {
